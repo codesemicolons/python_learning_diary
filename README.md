@@ -1,2 +1,2 @@
 # python_learning_diary
-python学习笔记
+pythonx学习笔记
